@@ -4,7 +4,9 @@
 
 Intended for _Artifacts Evaluation_.
 
-This repository contains:
+Paper proceedings: https://ieeexplore.ieee.org/document/9407259
+
+# Contents
 
 * Scripts for re-running experiments described in paper
 	* See bash scripts withtin root folder
