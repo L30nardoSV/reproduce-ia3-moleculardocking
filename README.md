@@ -4,7 +4,7 @@
 
 This repository contains the scripts and configuration files used in the _Artifact Appendix_ of the aforementioned article. 
 
-The paper has been published at IEEExplore: https://ieeexplore.ieee.org/document/9407259.
+The paper has been published on IEEExplore: https://ieeexplore.ieee.org/document/9407259.
 
 Other relevant material include the [paper preprint](https://www.esa.informatik.tu-darmstadt.de/assets/publications/materials/2020/2020_IA3_LVS.pdf) and [presentation slides](https://www.esa.informatik.tu-darmstadt.de/assets/publications/materials/2020/2020_IA3_LVS_slides.pdf).
 
