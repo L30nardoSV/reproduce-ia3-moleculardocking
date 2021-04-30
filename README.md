@@ -1,10 +1,15 @@
 [![DOI](https://zenodo.org/badge/302362741.svg)](https://zenodo.org/badge/latestdoi/302362741)
 
-# Artifacts IA^3 2020 Paper: Parallelizing Irregular Computations for Molecular Docking
+# Reproducing IA^3 2020 Paper: _Parallelizing Irregular Computations for Molecular Docking_
 
-Intended for _Artifacts Evaluation_.
+Presented in the _Artifact Evaluation_ section. 
 
-Paper proceedings: https://ieeexplore.ieee.org/document/9407259
+The paper proceedings are available at:
+https://ieeexplore.ieee.org/document/9407259)
+
+Preprint and presentation slides are available at:
+* [Preprint](https://www.esa.informatik.tu-darmstadt.de/assets/publications/materials/2020/2020_IA3_LVS.pdf)
+* [Slides](https://www.esa.informatik.tu-darmstadt.de/assets/publications/materials/2020/2020_IA3_LVS_slides.pdf)
 
 # Contents
 
@@ -14,6 +19,7 @@ Paper proceedings: https://ieeexplore.ieee.org/document/9407259
 	* See [docking parameter files](./dpf_autodock426) folder
 * Output examples of both AutoDock and AutoDock-GPU
 	* See [docking log](./dlg_examples) folder
+
 # Downloads
 
 Required programs and inputs:
