@@ -6,7 +6,7 @@ This repository contains the scripts and configuration files used in the the _Ar
 
 The paper proceedings are available at: https://ieeexplore.ieee.org/document/9407259.
 
-Other relevant material include the [preprint](https://www.esa.informatik.tu-darmstadt.de/assets/publications/materials/2020/2020_IA3_LVS.pdf) and [presentation slides](https://www.esa.informatik.tu-darmstadt.de/assets/publications/materials/2020/2020_IA3_LVS_slides.pdf).
+Other relevant material include the [paper preprint](https://www.esa.informatik.tu-darmstadt.de/assets/publications/materials/2020/2020_IA3_LVS.pdf) and [presentation slides](https://www.esa.informatik.tu-darmstadt.de/assets/publications/materials/2020/2020_IA3_LVS_slides.pdf).
 
 # Contents
 
