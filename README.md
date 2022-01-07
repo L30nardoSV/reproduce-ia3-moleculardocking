@@ -2,9 +2,13 @@
 
 # Reproducing IA^3 2020 Paper: _Parallelizing Irregular Computations for Molecular Docking_
 
-This repository contains the scripts and configuration files used in the _Artifact Appendix_ of the article accepted at the [10th Workshop on Irregular Applications: Architectures and Algorithms (IA^3), 2020](https://hpc.pnl.gov/IA3/IA3/IA3-2020/index.html):
+This repository contains the scripts and configuration files used in the _Artifact Appendix_ of the article accepted at: 
 
-The paper has been published on IEEExplore: https://doi.org/10.1109/IA351965.2020.00008.
+[The 10th Workshop on Irregular Applications: Architectures and Algorithms (IA^3), 2020](https://hpc.pnl.gov/IA3/IA3/IA3-2020/index.html)
+
+and published on IEEExplore: 
+
+https://doi.org/10.1109/IA351965.2020.00008.
 
 ## Contents
 
