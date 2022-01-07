@@ -6,9 +6,7 @@ This repository contains the scripts and configuration files used in the _Artifa
 
 The paper has been published on IEEExplore: https://doi.org/10.1109/IA351965.2020.00008.
 
-Other relevant material include the [paper preprint](https://www.esa.informatik.tu-darmstadt.de/assets/publications/materials/2020/2020_IA3_LVS.pdf) and [presentation slides](https://www.esa.informatik.tu-darmstadt.de/assets/publications/materials/2020/2020_IA3_LVS_slides.pdf).
-
-# Contents
+## Contents
 
 * Scripts for re-running experiments described in paper
 	* See bash scripts withtin root folder
@@ -17,7 +15,7 @@ Other relevant material include the [paper preprint](https://www.esa.informatik.
 * Output examples of both AutoDock and AutoDock-GPU
 	* See [docking log](./dlg_examples) folder
 
-# Downloads
+## Downloads
 
 Required programs and inputs:
 
@@ -26,5 +24,9 @@ Required programs and inputs:
 * Data set
 	* URL: https://doi.org/10.5281/zenodo.4031961
 	* DOI: `10.5281/zenodo.4031961`
+
+## Further information
+
+Additional material include the [paper preprint](https://www.esa.informatik.tu-darmstadt.de/assets/publications/materials/2020/2020_IA3_LVS.pdf) and [presentation slides](https://www.esa.informatik.tu-darmstadt.de/assets/publications/materials/2020/2020_IA3_LVS_slides.pdf).
 
 
